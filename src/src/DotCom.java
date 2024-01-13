@@ -20,8 +20,7 @@ public class DotCom {
 				System.out.println("Ой! Вы потопили " + name + " : )");
 			} else {
 				result = "Попал";
-			}
-		}
+			}}
 		return result;
 	}
 
